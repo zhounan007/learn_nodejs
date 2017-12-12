@@ -1,0 +1,24 @@
+{
+  "name": "learn_nodejs",
+  "version": "0.1.0",
+  "description": "learn nodejs",
+  "homepage": "https://github.com/zhounan007/learn_nodejs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhounan007/learn_nodejs.git"
+  },
+  "keywords": [
+    "css",
+    "ui",
+    "mobile",
+    "less",
+    "oreo",
+    "mobile ui",
+    "ui framework"
+  ],
+  "author": "zhounan007",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
